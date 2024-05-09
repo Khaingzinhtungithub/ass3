@@ -1,0 +1,30 @@
+.body{
+    border: 1px solid gray;
+    margin-left:10px ;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    border-radius: 8px;
+    width: 60%;
+    height: 400px;
+}
+.container{
+    font-size: 36px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.text{
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+h1{
+    font-size: 34px;
+    color: black;
+}
+p{
+    font-size: 32px;
+    color:black;
+    
+}
